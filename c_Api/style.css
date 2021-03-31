@@ -1,0 +1,36 @@
+*{
+    font-family: sans-serif;
+}
+body{
+    background-color: steelblue;
+    font-size: 13px;
+}
+table{
+    margin:auto;
+    border-collapse: collapse;
+    border-color: #eddd;
+    background:skyblue;
+}
+th{
+    padding:10px 5px ;
+    text-transform: uppercase;
+    background:rgb(65, 65, 143);
+    color:#fff;
+}
+td{
+    text-align: center;
+    padding:10px 5px;
+    color:slateblue
+}
+.deaths{
+    color:rgb(223, 79, 79);
+    background:slateblue
+}
+.recovered{
+    color: rgb(7 253 7);
+    background: #2196f3;
+}
+.active{
+    color:#ffff23;
+    background:#7d60d6;
+}
